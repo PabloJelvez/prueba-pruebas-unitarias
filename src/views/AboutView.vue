@@ -1,5 +1,21 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <header>
+      <h1>Vista About</h1>
+    </header>
+    
   </div>
 </template>
+
+<script>
+export default {
+  name: "AboutView",
+  data(){
+    return{}
+  }
+}
+</script>
+
+<style scoped lang="scss" >
+
+</style>
